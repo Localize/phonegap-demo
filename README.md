@@ -4,7 +4,7 @@
 
 ### Install Phonegap
 
-Follow the bellow link to install PhoneGap in your machine
+Follow the below link to install PhoneGap on your machine
 
     http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/
 
@@ -18,7 +18,7 @@ Create a new app with the following repository:
 
 ### Desktop
 
-In your browser, open the file:
+In your browser, open this file:
 
     /www/index.html
 
